@@ -1,0 +1,11 @@
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\bin\Release\netcoreapp2.2\QuickBuy.Repositorio.deps.json
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\bin\Release\netcoreapp2.2\QuickBuy.Repositorio.dll
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\bin\Release\netcoreapp2.2\QuickBuy.Repositorio.pdb
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\bin\Release\netcoreapp2.2\QuickBuy.Dominio.dll
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\bin\Release\netcoreapp2.2\QuickBuy.Dominio.pdb
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\obj\Release\netcoreapp2.2\QuickBuy.Repositorio.csprojAssemblyReference.cache
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\obj\Release\netcoreapp2.2\QuickBuy.Repositorio.AssemblyInfoInputs.cache
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\obj\Release\netcoreapp2.2\QuickBuy.Repositorio.AssemblyInfo.cs
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\obj\Release\netcoreapp2.2\QuickBuy.Repositorio.csproj.CopyComplete
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\obj\Release\netcoreapp2.2\QuickBuy.Repositorio.dll
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Repositorio\obj\Release\netcoreapp2.2\QuickBuy.Repositorio.pdb

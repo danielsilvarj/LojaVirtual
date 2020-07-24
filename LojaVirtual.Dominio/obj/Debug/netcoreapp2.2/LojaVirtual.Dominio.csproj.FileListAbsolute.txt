@@ -1,0 +1,17 @@
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\LojaVirtual.Dominio.deps.json
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\LojaVirtual.Dominio.dll
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\LojaVirtual.Dominio.pdb
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.AssemblyInfo.cs
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.dll
+C:\Projetos\LojaVirtualCSharp\Loja\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.pdb
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.csprojAssemblyReference.cache
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.AssemblyInfo.cs
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.dll
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\obj\Debug\netcoreapp2.2\LojaVirtual.Dominio.pdb
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\bin\Debug\netcoreapp2.2\LojaVirtual.Dominio.deps.json
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\bin\Debug\netcoreapp2.2\LojaVirtual.Dominio.dll
+C:\Projetos\LojaVirtualCSharp\Loja\LojaVirtual.Dominio\bin\Debug\netcoreapp2.2\LojaVirtual.Dominio.pdb

@@ -1,0 +1,8 @@
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.deps.json
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.csprojAssemblyReference.cache
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.AssemblyInfo.cs
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.dll
+C:\Projetos\LojaVirtualCSharp\LojaVirtual.QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp2.2\QuickBuy.Dominio.pdb
